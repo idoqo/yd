@@ -1,0 +1,93 @@
+/**forms and button layouts*/
+.input-container .fa{
+    position: absolute;
+    color: #696a6b;
+    padding: 8px 0;
+    background-color: #f1f1f1;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, from(#f1f1f1), to(#e7e7e7));
+    background-image: -moz-linear-gradient(50% 100%, #f1f1f1, #c8c8c8);
+    font-size: 1.3em;
+    width: 2em;
+    text-align: center;
+    float: left;
+}
+form input[type="text"], form input[type="password"], form input[type="number"], form input[type="date"], form input[type="email"]{
+    border: 0;
+    border-radius: 3px;
+    width: 90%;
+    padding: 8px 1px;
+}
+form input[type="submit"]{
+    padding: 8px 1px;
+    border-radius: 3px;
+    border: 0;
+    width: auto;
+}
+form select{
+    padding: .3em;
+    border: 0;
+    border-radius: 3px;
+    width: 40%;
+}
+form select.mini{
+    width: 30%;
+}
+.form-holder input[type="text"], .form-holder input[type="password"] {
+    width: 100%;
+    padding: .8em 1em .8em 4em;
+    background-color: #fff;
+    color: #505152;
+    border: 0;
+    border-radius: 3px;
+}
+.input-container{
+    position: relative;
+    box-shadow: 1px -1px 3px #999a9b;
+    margin: 0;
+    margin-top: 1em;
+    width: 85%;
+}
+input[type="text"].input-container, textarea.input-container{
+    width: 80%;
+}
+textarea{
+    resize: none;
+    padding: 8px;
+}
+textarea.medium{
+    height: 100px;
+    width: 50%;
+}
+/**styling file input**/
+.yd-fileChooser{
+    position: relative;
+}
+.yd-fileChooser input[type="file"]{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+}
+.yd-fileChooser input[type="text"]{
+    width: 80%;
+    padding: 5px 1px;
+}
+.button, form input[type="submit"]{
+    background: #2573A6;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,0.35);
+    box-shadow: inset 0 1px 0 rgba(120,120,230,.5),0 1px 0 rgba(0,0,0,.15);
+    color: #fff;
+    padding: 8px 12px;
+}
+.button a, .button a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.removal_form button{
+    background: none;
+    cursor: pointer;
+    color: #062f55;
+}

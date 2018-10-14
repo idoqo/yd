@@ -1,0 +1,28 @@
+*{
+    font-family: helvetica, trebuchet ms;
+}
+body{
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 120%;
+    background: #2573A6;
+}
+a{
+    color: #42B28C;
+}
+
+.ui-btn{
+    padding: .4em;
+    text-align: center;
+    background: #42B28C;
+    border-radius: 2px;
+    border: none;
+    width: 70%;
+    margin: auto;
+}
+.ui-btn a{
+    color: #fff;
+    text-decoration: none;
+}

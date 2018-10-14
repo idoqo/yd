@@ -1,0 +1,25 @@
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^/?signin/? index.php?action=signin [NC]
+RewriteRule ^/?logout/? index.php?action=logout [NC]
+
+#Had to do this till better conditionals.
+RewriteRule ^/?signup/([a-z]+)/?$ index.php?action=signup&utype=$1 [NC]
+RewriteRule ^/?signup/?$ index.php?action=signup [NC]
+
+RewriteRule ^/?profile/?$ profile.php
+RewriteRule ^/?user/([0-9]+)/?$ templates/_user.php?user=$1
+
+RewriteRule ^/?dashboard dashboard.php [NC]
+RewriteRule ^/?addproject dashboard.php?page=new [NC]
+RewriteRule ^/?myprojects dashboard.php?page=myprojects [NC]
+
+#Viewing project details
+RewriteRule ^/?project/([0-9]+)/([0-9a-zA-Z_]+)/?$ project.php?job_id=$1 [NC]
+
+RewriteRule ^/?messages/?$ dashboard.php?page=messages [NC]
+RewriteRule ^/?messages/([0-9]+)/?$ dashboard.php?page=messages&with=$1 [NC,L,QSA]
+
+RewriteRule ^/?settings/?$ dashboard.php?page=settings [NC]
+RewriteRule ^/?settings/([a-z]+)/?$ dashboard.php?page=settings&section=$1 [NC]

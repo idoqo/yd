@@ -1,0 +1,140 @@
+/**basic reset and general page layouts plus*/
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background: #f9f9f9;
+    color: #515050;
+}
+a{
+    color: #2573A6;
+}
+a:hover{
+    text-decoration: underline;
+}
+#loader{
+    position: absolute;
+    top: 35%;
+    right: 40%;
+}
+ul{
+    list-style: none;
+}
+
+.grid-container, .grid{
+    width : 100%;
+}
+.row:before,
+.row:after {
+    content:"";
+    display: table ;
+    clear:both;
+}
+.col-1{
+    width: 16.66%;
+}
+.col-2{
+    width: 33.33%;
+}
+.col-3{
+    width: 50%;
+}
+.col-4{
+    width: 66.664%;
+}
+.col-5{
+    width: 83.33%;
+}
+.col-6{
+    width: 100%;
+}
+[class*='col-'] {
+    float: left;
+    min-height: 1px;
+    /*-- our gutter --*/
+    padding: 12px;
+}
+[class*='col-'].centered{
+    float: none;
+    margin: auto;
+}
+.bigger-box{
+    width: 75%;
+    margin-left: 22%;
+}
+.details{
+    width: 65%;
+    margin-right: auto;
+    padding: 12px;
+    top: 6em;
+    float: left;
+}
+#right-sidebar{
+    width: 30%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: -1.5em;
+}
+.ref-icon{
+    float: right;
+    margin-top: 5px;
+    margin-right: 3em;margin-left: 2em;
+    border-radius: 50px;
+}
+#body-container{
+    padding-top: 1em;
+    min-height: 100%;
+    width: 96%;
+    margin: auto;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    min-height: 100%;
+    width: 100%;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.8) ;
+    display: none;
+}
+@media all and (max-width:800px){
+    .col-1{ width: 33.33%;    }
+    .col-2{ width: 50%;        }
+    .col-3{ width: 83.33%;    }
+    .col-4{ width: 100%;    }
+    .col-5{ width: 100%;    }
+    .col-6{ width: 100%;      }
+
+    .row .col-2:last-of-type{
+        width: 100%;
+    }
+
+    .row .col-5 ~ .col-1{
+        width: 100%;
+    }
+    /**dumb comment here -- classes coming from main index**/
+    img{
+        max-width: 100%;
+    }
+    input[type="submit"]{
+        width: auto;
+        height: auto;
+        padding: 5px;
+    }
+    .input-container{
+        width: 100%;
+    }
+}
+@media all and (max-width:650px){
+    .col-1{ width: 50%;        }
+    .col-2{ width: 100%;    }
+    .col-3{ width: 100%;    }
+    .col-4{ width: 100%;    }
+    .col-5{ width: 100%;    }
+    .col-6{ width: 100%;      }
+}

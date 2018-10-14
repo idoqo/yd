@@ -1,0 +1,238 @@
+.site-title{
+    font-family: 'Lily Script One';
+    color: #fff;
+}
+html{
+    min-width: 900px;
+}
+.tiny-liner{
+    background: #2573A6;
+    height: 50px;
+    margin-bottom: 3.5em;
+}
+.tiny-liner .resp-menu{
+    display: none;
+}
+#logo{
+    display: inline;
+}
+#header-nav{
+ list-style: none;
+ padding: .4em;
+ border-radius: 5px;
+ float: right;
+ font-size: 10pt;
+ margin-top: 20px;
+    display: inline;
+}
+#header-nav li > a, #header-nav li > a:hover, #header-nav li > a:focus, #header-nav > li:visited{
+  color: white;
+  text-decoration: none; 
+}
+#header-nav li{
+    display: inline;
+    padding: 0 10px;
+}
+#header-nav li+  li{
+    border-left: 1px solid white;
+}
+.close{
+    cursor: pointer;
+}
+/*footer.php*/
+#index-footer{
+    width: 100%;
+    font-size: 10pt;
+ }
+.footer-wrap{
+    background: #4c4e4e;
+    font-size: .8em;
+    margin-top: 5em;
+}
+footer{
+    height: 150px;
+}
+ #index-footer a{
+     padding: 1em;
+     color: #124163;
+ }
+/*BASIC PAGE LAYOUT.*/
+
+.sidebar, #right-sidebar{
+  padding: 10px;
+  color: #929293;
+}
+.sidebar{
+    float: left;
+    margin-right: 0;
+    width: 18%;
+    min-height: 500px;
+    margin-top: .1em;
+    font-size: 10pt;
+    display: block;
+}
+/*Control ajax loader*/
+#loader{
+ position: absolute;
+ top: 50%;
+ right: 50%;
+}
+/*FIGURE OUT WHY THIS IS HERE...*/
+.skills{
+    margin-top: 20px;
+}
+.skill-tag{
+    padding: 3px 5px;
+    margin: 8px 8px 0 0;
+    background-color: #92a6ca;
+    color: white;
+    line-height: 2;
+    border-radius: 3px;
+}
+.skill-tag.removable{
+    padding: 5px;
+}
+.skill-tag.removable a{
+
+}
+.blank{
+    background: rgba(0,0,0,0.03);
+    border: 1px solid rgba(0,0,0,0.25);
+}
+.section-title{
+   padding: .8em .5em;
+   margin-top: 0;
+   background: #dae3e8;
+   border: 1px solid;
+   border-color: #eee #eee #c7c7c7;
+   text-transform: uppercase;
+   font-size: .8em;
+   position: relative;
+}
+.section-title.mini{
+    padding: .5em;
+    background: none;
+    border: 0;
+    border-bottom: 1px solid;
+}
+/*FONT AWESOME ICONS THAT MAY BE TUCKED TO SIDE OF A SECTION TITLE CLASS*/
+.section-title .fa{
+    position: absolute;
+    color: #696a6b;
+    padding: 12px 0;
+    top: 0px;
+
+    font-size: 1.3em;
+    width: 2em;
+    text-align: center;
+    float: left;
+}
+.section-title .fa + span{
+    margin-left: 3.5em;
+}
+.section-title.tooltip{
+    position: relative;
+}
+.section-title.tooltip:before {
+    position: absolute;
+    content: "";
+    border: 18px solid transparent;
+    border-top: 10px solid #dae3e8;
+    top: 100%;
+}
+.section-title + div{
+    padding: 10px;
+}
+.pseudo-meta li{
+    display: inline-block;
+    width: 30%;
+    margin: 0 3px;
+    height: 200px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px #c8c8c8;
+    position: relative;
+}
+.feed-element{
+    width: 90%;
+    min-height: 3em;
+    margin: auto;
+    padding: 15px 5px 5px;
+    border-bottom: 1px solid #efefef;
+}
+.warning{
+    color: #ad2727;
+    padding: 10px;
+}
+.error{
+    color: #ad2727;
+    background: #e8c0c4;
+    border: 1px solid #ad2727;
+    padding: 5px 10px;
+}
+.ui-gloss-btn{
+    background-color: #42b28c;
+    box-shadow: none;
+    border-radius: 2px;
+    width: 50%;
+    padding: 5px 12px;
+    color: #fff;
+}
+.ui-gloss-btn.large{
+    padding: 10px 25px;
+    border-bottom: 2px solid rgba(0,0,0,0.07);
+}
+.ui-gloss-btn a{
+    color: #fff;
+}
+.ui-grey-btn{
+    padding: 5px 10px;
+    border-radius: 2px;
+    background: #fafafa;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, from(#e7e7e7), to(#d7d7d7));
+    background-image: -moz-linear-gradient(50% 100%, #e7e7e7, #d7d7d7);
+    margin: 0 10px;
+    border: 1px solid;
+    border-color: #c8c8c8 #b8b8b8 #848485;
+}
+.ui-grey-btn:hover {
+    background-image: none;
+    background-color: #e7e7e7;
+}
+.ui-grey-btn a{
+    color: #353636;
+}
+.ui-grey-btn a:hover{
+    text-decoration: none;
+}
+.ui-gloss-btn a:hover{
+    text-decoration: none;
+}
+table{
+    width: 100%;
+    color: #32373c;
+    font-weight: 400;
+}
+table th{
+    font-weight: normal;
+    text-align: left;
+    padding: 0 5px 17px;
+    border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+tr{
+    border-spacing: 0;
+}
+tbody tr:nth-child(even){
+
+}
+tbody tr:nth-child(even){
+    background: #f0f0f0;
+}
+td{
+    padding: 14px 5px;
+}
+a.action-c{
+    padding: 2% 3%;
+    margin: 0 3px;
+    border-radius: 2px;
+    color: white;
+}

@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Verdana;
+    font-size: 12pt;
+}
+img{
+    display: none;
+}
+h1, h2{
+    font-weight: normal;
+}
+header h1{
+    float: left;
+    text-transform: uppercase;
+}
+header section{
+    float: right;
+}
+header{
+    margin-bottom: 2cm;
+}
+.email:before{
+    content: "\f199";
+    font-family: FontAwesome;
+    margin-right: 0.5cm;
+}
+.tel:before{
+    content: "\f098";
+    font-family: FontAwesome;
+    margin-right: 0.5cm;
+}
+article div{
+    margin: 0 0 0.5cm;
+    height: auto;
+}
+article h2{
+    float: left;
+    clear: both;
+    width: 20%;
+    height: auto;
+    padding: 0 0 1.2cm;
+    text-transform: lowercase;
+    margin-top: -0.2cm;
+}
+article section{
+    max-width: 75%;
+    margin-left: 22%;
+}
+.date{
+    float: right;
+}

@@ -1,0 +1,482 @@
+
+
+
+
+
+
+<!doctype html>
+
+<html class="windows x86 no-js" lang="en" dir="ltr" data-latest-firefox="56.0" data-esr-versions="52.4.0" data-optimizely-project-id="246059135" data-gtm-container-id="GTM-MW3R8V" data-gtm-page-id="/firefox/whatsnew/" data-stub-attribution-rate="1.0">
+  <head>
+    <meta charset="utf-8">
+
+    <script type="text/javascript" src="/media/js/site-bundle.5f2462a3ca26.js" charset="utf-8"></script>
+    
+
+<!--
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://careers.mozilla.org to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.
+-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+
+    <title>Firefox is up to date</title>
+    <meta name="description" content="Built for speed. Primed for performance.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.mozilla.org/en-US/firefox/">
+    <meta property="og:image" content="https://www.mozilla.org/media/img/firefox/template/page-image.af8027a425de.png">
+    <meta property="og:title" content="See what’s new with Firefox">
+    <meta property="og:description" content="Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.">
+    <meta property="fb:page_id" content="14696440021">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@firefox">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/media/img/firefox/ios-icon-180.7a8401f21915.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="/media/img/firefox/favicon-196.223e1bcaf067.png">
+    <link rel="shortcut icon" href="/media/img/firefox/favicon.dc6635050bf5.ico">
+        <link rel="canonical" hreflang="en" href="https://www.mozilla.org/en-US/firefox/56.0/whatsnew/">
+    <link rel="alternate" hreflang="x-default" href="https://www.mozilla.org/en-US/firefox/56.0/whatsnew/">
+    <link rel="alternate" hreflang="bg" href="https://www.mozilla.org/bg/firefox/56.0/whatsnew/" title="Български">
+        <link rel="alternate" hreflang="bs" href="https://www.mozilla.org/bs/firefox/56.0/whatsnew/" title="Bosanski">
+        <link rel="alternate" hreflang="cs" href="https://www.mozilla.org/cs/firefox/56.0/whatsnew/" title="Čeština">
+        <link rel="alternate" hreflang="cy" href="https://www.mozilla.org/cy/firefox/56.0/whatsnew/" title="Cymraeg">
+        <link rel="alternate" hreflang="da" href="https://www.mozilla.org/da/firefox/56.0/whatsnew/" title="Dansk">
+        <link rel="alternate" hreflang="de" href="https://www.mozilla.org/de/firefox/56.0/whatsnew/" title="Deutsch">
+        <link rel="alternate" hreflang="en" href="https://www.mozilla.org/en-US/firefox/56.0/whatsnew/" title="English">
+        <link rel="alternate" hreflang="en-CA" href="https://www.mozilla.org/en-US/firefox/56.0/whatsnew/" title="English (Canada)">
+        <link rel="alternate" hreflang="eo" href="https://www.mozilla.org/eo/firefox/56.0/whatsnew/" title="Esperanto">
+        <link rel="alternate" hreflang="es-AR" href="https://www.mozilla.org/es-AR/firefox/56.0/whatsnew/" title="Español (de Argentina)">
+        <link rel="alternate" hreflang="es-CL" href="https://www.mozilla.org/es-CL/firefox/56.0/whatsnew/" title="Español (de Chile)">
+        <link rel="alternate" hreflang="es-ES" href="https://www.mozilla.org/es-ES/firefox/56.0/whatsnew/" title="Español (de España)">
+        <link rel="alternate" hreflang="es-MX" href="https://www.mozilla.org/es-MX/firefox/56.0/whatsnew/" title="Español (de México)">
+        <link rel="alternate" hreflang="et" href="https://www.mozilla.org/et/firefox/56.0/whatsnew/" title="Eesti keel">
+        <link rel="alternate" hreflang="fa" href="https://www.mozilla.org/fa/firefox/56.0/whatsnew/" title="فارسی">
+        <link rel="alternate" hreflang="fr" href="https://www.mozilla.org/fr/firefox/56.0/whatsnew/" title="Français">
+        <link rel="alternate" hreflang="hi-IN" href="https://www.mozilla.org/hi-IN/firefox/56.0/whatsnew/" title="हिन्दी (भारत)">
+        <link rel="alternate" hreflang="hu" href="https://www.mozilla.org/hu/firefox/56.0/whatsnew/" title="magyar">
+        <link rel="alternate" hreflang="id" href="https://www.mozilla.org/id/firefox/56.0/whatsnew/" title="Bahasa Indonesia">
+        <link rel="alternate" hreflang="it" href="https://www.mozilla.org/it/firefox/56.0/whatsnew/" title="Italiano">
+        <link rel="alternate" hreflang="ja" href="https://www.mozilla.org/ja/firefox/56.0/whatsnew/" title="日本語">
+        <link rel="alternate" hreflang="ka" href="https://www.mozilla.org/ka/firefox/56.0/whatsnew/" title="ქართული">
+        <link rel="alternate" hreflang="lt" href="https://www.mozilla.org/lt/firefox/56.0/whatsnew/" title="Lietuvių">
+        <link rel="alternate" hreflang="ms" href="https://www.mozilla.org/ms/firefox/56.0/whatsnew/" title="Melayu">
+        <link rel="alternate" hreflang="nb-NO" href="https://www.mozilla.org/nb-NO/firefox/56.0/whatsnew/" title="Norsk bokmål">
+        <link rel="alternate" hreflang="nl" href="https://www.mozilla.org/nl/firefox/56.0/whatsnew/" title="Nederlands">
+        <link rel="alternate" hreflang="nn-NO" href="https://www.mozilla.org/nn-NO/firefox/56.0/whatsnew/" title="Norsk nynorsk">
+        <link rel="alternate" hreflang="pl" href="https://www.mozilla.org/pl/firefox/56.0/whatsnew/" title="Polski">
+        <link rel="alternate" hreflang="pt-BR" href="https://www.mozilla.org/pt-BR/firefox/56.0/whatsnew/" title="Português (do Brasil)">
+        <link rel="alternate" hreflang="pt-PT" href="https://www.mozilla.org/pt-PT/firefox/56.0/whatsnew/" title="Português (Europeu)">
+        <link rel="alternate" hreflang="ru" href="https://www.mozilla.org/ru/firefox/56.0/whatsnew/" title="Русский">
+        <link rel="alternate" hreflang="sk" href="https://www.mozilla.org/sk/firefox/56.0/whatsnew/" title="slovenčina">
+        <link rel="alternate" hreflang="sl" href="https://www.mozilla.org/sl/firefox/56.0/whatsnew/" title="Slovenščina">
+        <link rel="alternate" hreflang="sv-SE" href="https://www.mozilla.org/sv-SE/firefox/56.0/whatsnew/" title="Svenska">
+        <link rel="alternate" hreflang="th" href="https://www.mozilla.org/th/firefox/56.0/whatsnew/" title="ไทย">
+        <link rel="alternate" hreflang="tr" href="https://www.mozilla.org/tr/firefox/56.0/whatsnew/" title="Türkçe">
+        <link rel="alternate" hreflang="vi" href="https://www.mozilla.org/vi/firefox/56.0/whatsnew/" title="Tiếng Việt">
+        <link rel="alternate" hreflang="zh-CN" href="https://www.mozilla.org/zh-CN/firefox/56.0/whatsnew/" title="中文 (简体)">
+        <link rel="alternate" hreflang="zh-TW" href="https://www.mozilla.org/zh-TW/firefox/56.0/whatsnew/" title="正體中文 (繁體)">
+        
+    
+
+    
+
+    <!--[if lte IE 8]>
+      
+      <script src="/media/js/libs/html5shiv.d580a4cd1cb4.js"></script>
+
+      
+      
+      <link href="/media/css/oldIE-pebbles-bundle.d3f0a7a41dbc.css" rel="stylesheet" type="text/css" />
+      
+    <![endif]-->
+
+    <!--[if !lte IE 8]><!-->
+    
+    
+      <link href="/media/css/pebbles-bundle.200d44bc7f5d.css" rel="stylesheet" type="text/css" />
+    
+
+    
+    
+  <link href="/media/css/firefox-whatsnew-56-bundle.bcc86ca458cf.css" rel="stylesheet" type="text/css" />
+
+    <!--<![endif]-->
+
+    
+  
+    <link href="/media/css/firefox-update-notification-modal-bundle.088f1fc278bc.css" rel="stylesheet" type="text/css" />
+  
+
+
+    
+
+    
+    
+      <!--
+Read more about our custom configuration and use of Google Analytics here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
+-->
+
+<!-- Google Tag Manager -->
+<!-- Customized for Mozilla.org-->
+<!-- Region Container: NONE -->
+<!-- Rollup Container: System Filtered -->
+<!-- Site Container: NONE -->
+
+
+  <script type="text/javascript" src="/media/js/gtm-snippet-bundle.e956015fe7f3.js" charset="utf-8"></script>
+
+<!-- End Google Tag Manager -->
+    
+  </head>
+
+  <body class="html-ltr "  data-global-nav-current-link="firefox">
+    <div id="strings"
+      data-global-close="Close"
+      data-global-next="Next"
+      data-global-previous="Previous"
+      data-global-update-firefox="Update your Firefox"
+      data-global-fx-out-of-date-banner-heading="Your Firefox is out-of-date."
+      data-global-fx-out-of-date-banner-message="Get the most recent version to keep browsing securely."
+      data-global-fx-out-of-date-banner-confirm="Update Firefox"
+      ></div>
+
+  
+<header class="up-to-date-header">
+  <div class="content">
+    <h1>Firefox is up to date</h1>
+  </div>
+</header>
+<section class="intro">
+  <div class="content">
+    <div class="intro-wrapper">
+      <div class="intro-content">
+        <h2>Built for speed. Primed for performance.</h2>
+        <p>
+        From the instant you start the browser to the moment you load a web page, you’ll see the effects of the hard work taking place behind the scenes at Mozilla. Since the start of the year, we’ve made big changes to Firefox to bring you:
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<div id="outer-wrapper">
+    
+<div class="features-section">
+  <div class="content">
+    <ul class="features-list">
+      <li>More responsive tab switching</li>
+      <li>Faster page loading with less memory use</li>
+      <li>Support for next generation web technologies, like WebVR and WebGL for gaming</li>
+    </ul>
+  </div>
+</div>
+
+<section class="whats-next">
+  <div class="content">
+    <h2>What’s next for Firefox</h2>
+
+    <p>
+    We’ve been laying the groundwork for our biggest release of the year, coming in November. The New Firefox will feature even more improvements to speed and performance, with a modern, intuitive design to match.
+    </p>
+
+    <ul>
+      <li>
+        <h3 class="search">Find it faster</h3>
+        <p>The address bar that does it all: Use it to search, recover, save and share pages as you go.</p>
+      </li>
+      <li>
+        <h3 class="library">Hold it together</h3>
+        <p>The new Firefox library puts the great things you’ve found and saved in one convenient place.</p>
+      </li>
+      <li>
+        <h3 class="new-tab">Keep it fresh</h3>
+        <p>The all-new New Tab gives you quick access to your top sites and recommendations from around the web.</p>
+      </li>
+    </ul>
+
+    
+    
+    <a class="button photon-flat" href="/en-US/firefox/quantum/">Learn more</a>
+    
+  </div>
+</section>
+
+
+    
+      <footer id="colophon" class="">
+  <div class="content">
+    <nav class="primary">
+      <div class="logo">
+        <a href="/en-US/" data-link-type="footer" data-link-name="Mozilla">Mozilla</a>
+      </div>
+      <section class="mozilla">
+        <h5>
+          <a href="/en-US/" data-link-type="footer" data-link-name="Mozilla">Mozilla</a>
+        </h5>
+        <ul class="mozilla-links">
+          <li><a href="/en-US/about/" data-link-type="footer" data-link-name="About">About</a></li>
+          <li><a href="/en-US/contact/" data-link-type="footer" data-link-name="Contact Us">Contact Us</a></li>
+          <li><a href="https://donate.mozilla.org/en-US/?presets=100,50,25,15&amp;amount=50&amp;utm_source=mozilla.org&amp;utm_medium=referral&amp;utm_content=footer&amp;currency=usd" class="donate" data-link-type="footer" data-link-name="Donate">Donate</a></li>
+          <li><a href="https://wiki.mozilla.org/Webdev/GetInvolved/mozilla.org" data-link-type="footer" data-link-name="Contribute to this site">Contribute to this site</a></li>
+          <li>
+            <ul class="social-links">
+              <li><a class="twitter" href="https://twitter.com/mozilla" data-link-type="footer" data-link-name="Twitter (@mozilla)">Twitter<span> (@mozilla)</span></a></li>
+              <li><a class="facebook" href="https://www.facebook.com/mozilla" data-link-type="footer" data-link-name="Facebook (Mozilla)">Facebook<span> (Mozilla)</span></a></li>
+              <li><a class="instagram" href="https://www.instagram.com/mozillagram/" data-link-type="footer" data-link-name="Instagram (@mozillagram)">Instagram<span> (@mozillagram)</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section class="firefox">
+        <h5>
+          <a href="/en-US/firefox/" data-link-type="footer" data-link-name="Firefox">Firefox</a>
+        </h5>
+        <ul class="firefox-links">
+        
+          <li><a href="/en-US/firefox/new/" data-link-type="footer" data-link-name="Download Firefox">Download Firefox</a></li>
+          <li><a href="/en-US/firefox/android/" data-link-type="footer" data-link-name="Android Browser">Android Browser</a></li>
+          <li><a href="/en-US/firefox/ios/" data-link-type="footer" data-link-name="iOS Browser">iOS Browser</a></li>
+          <li><a href="/en-US/firefox/focus/" data-link-type="footer" data-link-name="Focus Browser">Focus Browser</a></li>
+          <li><a href="/en-US/firefox/desktop/" data-link-type="footer" data-link-name="Desktop Browser">Desktop Browser</a></li>
+          <li><a href="/en-US/firefox/channel/desktop/" data-link-type="footer" data-link-name="Beta, Nightly, Developer Edition">Beta, Nightly, Developer Edition</a></li>
+        
+          <li>
+            <ul class="social-links">
+              <li><a class="twitter" href="https://twitter.com/firefox" data-link-type="footer" data-link-name="Twitter (@firefox)">Twitter<span> (@firefox)</span></a></li>
+              <li><a class="facebook" href="https://www.facebook.com/Firefox" data-link-type="footer" data-link-name="Facebook (Firefox)">Facebook<span> (Firefox)</span></a></li>
+              <li><a class="youtube" href="https://www.youtube.com/firefoxchannel" data-link-type="footer" data-link-name="YouTube (firefoxchannel)">YouTube<span> (firefoxchannel)</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+    </nav>
+
+    <nav class="secondary">
+        <div class="small-links">
+          <ul>
+             
+              
+            
+            <li><a rel="nofollow" href="/en-US/privacy/websites/" data-link-type="footer" data-link-name="Privacy">Website Privacy Notice</a></li>
+            <li><a rel="nofollow" href="/en-US/privacy/websites/#cookies" data-link-type="footer" data-link-name="Cookies">Cookies</a></li>
+            <li><a rel="nofollow" href="/en-US/about/legal/" data-link-type="footer" data-link-name="Legal">Legal</a></li>
+          </ul>
+          <p class="license">Portions of this content are ©1998–2017 by individual mozilla.org contributors. Content available under a <a rel="license" href="/en-US/foundation/licensing/website-content/">Creative Commons license</a>.</p>
+        </div>
+        <div class="lang-switcher">
+          
+<form id="lang_form" method="get" action="#">
+  <label for="page-language-select">Language</label>
+  <select id="page-language-select" name="lang" dir="ltr">
+    
+      <option lang="ast" value="ast">Asturianu</option>
+    
+      <option lang="bg" value="bg">Български</option>
+    
+      <option lang="bs" value="bs">Bosanski</option>
+    
+      <option lang="cak" value="cak">Maya Kaqchikel</option>
+    
+      <option lang="cs" value="cs">Čeština</option>
+    
+      <option lang="cy" value="cy">Cymraeg</option>
+    
+      <option lang="da" value="da">Dansk</option>
+    
+      <option lang="de" value="de">Deutsch</option>
+    
+      <option lang="dsb" value="dsb">Dolnoserbšćina</option>
+    
+      <option lang="en-US" value="en-US" selected>English</option>
+    
+      <option lang="eo" value="eo">Esperanto</option>
+    
+      <option lang="es-AR" value="es-AR">Español (de Argentina)</option>
+    
+      <option lang="es-CL" value="es-CL">Español (de Chile)</option>
+    
+      <option lang="es-ES" value="es-ES">Español (de España)</option>
+    
+      <option lang="es-MX" value="es-MX">Español (de México)</option>
+    
+      <option lang="et" value="et">Eesti keel</option>
+    
+      <option lang="fa" value="fa">فارسی</option>
+    
+      <option lang="fr" value="fr">Français</option>
+    
+      <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+    
+      <option lang="hsb" value="hsb">Hornjoserbsce</option>
+    
+      <option lang="hu" value="hu">magyar</option>
+    
+      <option lang="id" value="id">Bahasa Indonesia</option>
+    
+      <option lang="it" value="it">Italiano</option>
+    
+      <option lang="ja" value="ja">日本語</option>
+    
+      <option lang="ka" value="ka">ქართული</option>
+    
+      <option lang="lt" value="lt">Lietuvių</option>
+    
+      <option lang="ms" value="ms">Melayu</option>
+    
+      <option lang="nb-NO" value="nb-NO">Norsk bokmål</option>
+    
+      <option lang="nl" value="nl">Nederlands</option>
+    
+      <option lang="nn-NO" value="nn-NO">Norsk nynorsk</option>
+    
+      <option lang="pl" value="pl">Polski</option>
+    
+      <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+    
+      <option lang="pt-PT" value="pt-PT">Português (Europeu)</option>
+    
+      <option lang="ru" value="ru">Русский</option>
+    
+      <option lang="sk" value="sk">slovenčina</option>
+    
+      <option lang="sl" value="sl">Slovenščina</option>
+    
+      <option lang="sv-SE" value="sv-SE">Svenska</option>
+    
+      <option lang="th" value="th">ไทย</option>
+    
+      <option lang="tr" value="tr">Türkçe</option>
+    
+      <option lang="vi" value="vi">Tiếng Việt</option>
+    
+      <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+    
+      <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+    
+  </select>
+  <noscript>
+    <button type="submit">Go</button>
+  </noscript>
+</form>
+
+        </div>
+    </nav>
+  </div>
+</footer>
+    
+  </div>
+
+  <!--[if IE 9]>
+    <script type="text/javascript" src="/media/js/matchmedia-bundle.4bd52fa6725f.js" charset="utf-8"></script>
+  <![endif]-->
+
+    
+      <script type="text/javascript" src="/media/js/common-bundle.cee1f2fdf483.js" charset="utf-8"></script>
+    
+
+    
+    
+      
+        <script type="text/javascript" src="/media/js/stub-attribution-bundle.51373cd8a0ad.js" charset="utf-8"></script>
+      
+    
+
+    
+
+    
+    
+  
+    <div class="notification-modal-content">
+  <h2>Love this version of Firefox?</h2>
+  <h3>We do too, so we’ve improved to keep you safe from malware. Update now for safer, faster browsing.</h3>
+
+  <p>Easy update instructions:</p>
+
+  <ol class="win-lin">
+    <li>Click the <strong>menu button</strong>, click <strong>help</strong> and select <strong>About Firefox</strong>.</li>
+    <li>The <strong>About Firefox</strong> window will open and Firefox will begin checking for updates and downloading them automatically.</li>
+    <li>When the updates are ready to be installed, click <strong>Restart Firefox to Update</strong>.</li>
+  </ol>
+
+  <ol class="mac">
+    <li>On the menu bar click the <strong>Firefox</strong> menu and select <strong>About Firefox</strong>.</li>
+    <li>The <strong>About Firefox</strong> window will open and Firefox will begin checking for updates and downloading them automatically.</li>
+    <li>When the updates are ready to be installed, click <strong>Restart Firefox to Update</strong>.</li>
+  </ol>
+
+  <small><a href="https://support.mozilla.org/kb/update-firefox-latest-version">More help</a></small>
+</div>
+    <script type="text/javascript" src="/media/js/firefox-update-notification-modal-bundle.5fa499126d41.js" charset="utf-8"></script>
+  
+
+
+    
+  </body>
+</html>'1rk��      Y�1�Y�1�>>�Y�3�   G    :https://www.mozilla.org/en-US/firefox/56.0/whatsnew/?oldversion=55.0.3 necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAf9MIIH+TCCBuGgAwIBAgIQCLTVuQqUkB24PV+Clbic+TANBgkqhkiG9w0BAQsFADB1MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVkIFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE2MTEwOTAwMDAwMFoXDTE4MTExNDEyMDAwMFowggECMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysGAQQBgjc8AgEDEwJVUzEbMBkGCysGAQQBgjc8AgECEwpDYWxpZm9ybmlhMREwDwYDVQQFEwhDMjc1OTIwODEeMBwGA1UECRMVNjUwIENhc3RybyBTdCBTdGUgMzAwMQ4wDAYDVQQREwU5NDA0MTELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24xFDASBgNVBAMTC21vemlsbGEub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAojTWgYqURVDP291yrYhgqecAn++PQjzOesgJkZoPQdd4JuJMxg4Cxbfp00qpjJv9DNWCoQsYGGRNyXL6Xmxy7PVwD5m+2C27ogOa0xSBP5hBr07CaqQ1yAJw0RKwGilLbiiSzJoy21AUyY/uKxKogfMM9nnTfF4TQaYkahyeOCjhoIXW2/nhoRvmzQkKtCc3kdKE64j8PgmeImu3nV4uw6XNj48umyuhHG+6G5Svt7d/DhSoTNKoiyigf4lLZuVCY3fwLVQh2Rx1Xz+cMpXLU6OIqdnZbDa9hlEFgN2C6MoSmcfo6BX8Ruvyzqc2f+FNDGwjCGiAlxes3ZhcSwFjsQIDAQABo4ID9DCCA/AwHwYDVR0jBBgwFoAUPdNQpdagre7zSmAKZdMh1Pj41g8wHQYDVR0OBBYEFCqAuKQ3S0o1NBRkMZ7we/y2w6CTMCcGA1UdEQQgMB6CC21vemlsbGEub3Jngg93d3cubW96aWxsYS5vcmcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzEuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1ldi1zZXJ2ZXItZzEuY3JsMEsGA1UdIAREMEIwNwYJYIZIAYb9bAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwBwYFZ4EMAQEwgYgGCCsGAQUFBwEBBHwwejAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMFIGCCsGAQUFBzAChkZodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyRXh0ZW5kZWRWYWxpZGF0aW9uU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwggH3BgorBgEEAdZ5AgQCBIIB5wSCAeMB4QB1AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABWEtou44AAAQDAEYwRAIgadQvTaz8vG28WPPQyoD32Nfvekz/WfdMdTjc88YcYC4CIBncp5Yqet7J3JSiNWJnbaeWtBvTjoO6vudBurSFaqWmAHYAaPaY+B9kgr46jO65KB1M/HFRXWeT1ETRCmesu09P+8QAAAFYS2i7XQAABAMARzBFAiEAxbQYHhg6zA3Q7Y1hdXNVtd2yaOg1g4iIV38VeG2WBoMCIAT2azrUy9ndA3hZPPk2hV8YTEItIocJB81F/J4wf2NMAHcAVhQGmi/XwuzT9eG9RLI+x0Z2ubyZEVzA75SYVdaJ0N0AAAFYS2i7+gAABAMASDBGAiEA4/5viFhhenp07noR8YSkvuiHF+D+6fmDhqcH2shxiboCIQCyPAVUuxnyrWK3PPDbqGx4YPi5i5DIQUbyT/UiqaOVtwB3AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABWEtovaIAAAQDAEgwRgIhAJ1S5/U2TqjMRHM8WLpZ+SRroBRoFXqLLj0kEffVe9MtAiEAgxkb74Z6pNVKx898PkNtxICcVRDah4loTSFsftgMAjYwDQYJKoZIhvcNAQELBQADggEBAAAxqPv0YMMRvgwOIKr5s6DqE4fUdkntQZn2y8VkLyNPodUP5s64ZbnNcceubSPwgqbrXAEVdn2YLyFde1j/npTRfvQH4nPjN8zmIdZFQ/7FYp9bTUFQbouea6gf8/pVUgIFa0945hikojNzIXATFynDFFarpx+h957jOGlfhkXqFEK0cPrikLhxDrI5LWDv8tcJSW971gDngSY8N3htFgvDkCMVhBuQM02UTW++WuCe5rzWk8vQ3NfJoqy3Vm3YhRpOTF3UFbTXCpmzAb1hgt+iz4k1soCJo9YwOewwd5aS8Bk2+vjtOafBNN6UdLa4WjRX+JnX5wIANzL9azCzLUfALwEDAAAAAQEBAAAAAA== request-method GET request-Accept-Encoding gzip, deflate, br response-head HTTP/2.0 200 OK
+date: Thu, 28 Sep 2017 17:30:11 GMT
+content-type: text/html; charset=utf-8
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000
+x-robots-tag: noodp
+content-security-policy: script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' *.optimizely.com optimizely.s3.amazonaws.com www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com data: *.optimizely.com www.googletagmanager.com www.google-analytics.com *.tiles.mapbox.com api.mapbox.com creativecommons.org ad.doubleclick.net sp.analytics.yahoo.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com; frame-src *.optimizely.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline'; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.optimizely.com www.googletagmanager.com www.google-analytics.com *.tiles.mapbox.com api.mapbox.com; child-src *.optimizely.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com
+x-backend-server: bedrock-prod-web-3278684433-bk8w8.bedrock-prod.frankfurt.moz.works
+expires: Thu, 28 Sep 2017 17:13:11 GMT
+etag: "402dc11645522fadb880603872535637"
+cache-control: max-age=600
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-clacks-overhead: GNU Terry Pratchett
+cf-cache-status: HIT
+vary: Accept-Encoding
+server: cloudflare-nginx
+cf-ray: 3a586ddf8dc72c72-AMS
+X-Firefox-Spdy: h2
+ original-response-headers date: Thu, 28 Sep 2017 17:30:11 GMT
+content-type: text/html; charset=utf-8
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000
+x-robots-tag: noodp
+content-security-policy: script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' *.optimizely.com optimizely.s3.amazonaws.com www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com data: *.optimizely.com www.googletagmanager.com www.google-analytics.com *.tiles.mapbox.com api.mapbox.com creativecommons.org ad.doubleclick.net sp.analytics.yahoo.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com; frame-src *.optimizely.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com 'unsafe-inline'; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.optimizely.com www.googletagmanager.com www.google-analytics.com *.tiles.mapbox.com api.mapbox.com; child-src *.optimizely.com www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com
+x-backend-server: bedrock-prod-web-3278684433-bk8w8.bedrock-prod.frankfurt.moz.works
+expires: Thu, 28 Sep 2017 17:13:11 GMT
+etag: "402dc11645522fadb880603872535637"
+cache-control: max-age=600
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-clacks-overhead: GNU Terry Pratchett
+cf-cache-status: HIT
+vary: Accept-Encoding
+server: cloudflare-nginx
+cf-ray: 3a586ddf8dc72c72-AMS
+X-Firefox-Spdy: h2
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 23 predictor::https://www.mozilla.org/media/js/site-bundle.5f2462a3ca26.js 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/css/pebbles-bundle.200d44bc7f5d.css 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/css/firefox-whatsnew-56-bundle.bcc86ca458cf.css 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/css/firefox-update-notification-modal-bundle.088f1fc278bc.css 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/js/gtm-snippet-bundle.e956015fe7f3.js 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/js/common-bundle.cee1f2fdf483.js 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/js/stub-attribution-bundle.51373cd8a0ad.js 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/js/firefox-update-notification-modal-bundle.5fa499126d41.js 1,1,1506619810,4096 net-response-time-onstart 4011 net-response-time-onstop 4303 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-MW3R8V&l=dataLayer 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/green-check.7827adc11924.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/fox-tail-header.075d5293f79a.png 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/laptop.23642992b169.png 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/wave.285fceb6ea04.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/new-tab.28c5196c36e3.png 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/icon-search.670ec30bb210.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/icon-library.3372fe155b31.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/firefox/whatsnew_56/icon-new-tab.f72143ddad22.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/pebbles/moz-wordmark-light-reverse.cb1bdf6d1de6.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/img/logos/social/social-icon-sprite.bf2ae0cd0f01.svg 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/fonts/opensans-bold.5cf854f3d1c0.woff2 1,1,1506619810,4096 predictor::https://www.mozilla.org/media/fonts/opensans-regular.668362de763a.woff2 1,1,1506619810,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,1506619810,4096 predictor::https://www.google-analytics.com/plugins/ua/linkid.js 1,1,1506619810,4096   R$

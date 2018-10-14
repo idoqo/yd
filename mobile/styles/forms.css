@@ -1,0 +1,41 @@
+form textarea{
+    resize: none;
+    border: 1px solid #d7d7d7;
+}
+input[type="submit"], button[type="submit"]{
+    padding: 5px 10px;
+    background: #60A2D4;
+    color: #fff;
+    border-radius:3px;
+    border-bottom: 1px solid #124168;
+}
+button[type="submit"].remover{
+    background: none;
+    color: #60A2D4;
+    border: none;
+}
+form select{
+    padding: 10px 1em;
+}
+/**buttons**/
+.passive{
+    background: #d7d7d7;
+    border-bottom: 1px solid #c8c8c8;
+    color: rgba(0, 0, 0, 0.7);
+}
+.passive a{
+    color: rgba(0, 0, 0, 0.7);
+}
+.ui-grey-btn{
+    padding: 5px 10px;
+    border-radius: 2px;
+    background: #fafafa;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, from(#e7e7e7), to(#d7d7d7));
+    background-image: -moz-linear-gradient(50% 100%, #e7e7e7, #d7d7d7);
+    margin: 0 10px;
+    border: 1px solid;
+    border-color: #c8c8c8 #b8b8b8 #848485;
+}
+.ui-grey-btn a{
+    color: #222;
+}
